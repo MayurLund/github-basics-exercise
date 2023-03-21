@@ -1,3 +1,9 @@
+Foods:
 Noddles
 Manchurian
 Biryani
+
+Movies:
+3 Idiots
+Ek Villian
+Jab Tak Hai Jaan
